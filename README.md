@@ -2,7 +2,7 @@
 - 
 - 👀 I’m fond of building fully functional and well interactive web apps/projects
 - 
-- 🌱 I’m currently proficient in HTML5, CSS3 and JavaScript, but still learning and growing in front-end web development
+- 🌱 I’m currently proficient in HTML5, CSS3, Bootstrap, TailwindCSS and JavaScript, but still learning and growing in front-end web development
 - 
 - 💞️ I like to collaborate on web and mobile apps development projects
 - 
