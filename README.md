@@ -5,7 +5,7 @@
 Skills: Automation: Web, Mobile, Business Process (RPA), Bash Scripting, Cron Jobs || Bot Development: Discord, Telegram, WhatsApp, X(Twitter), Trading
 
 ## 💫 About Me:
-Dedicated and skilled Automation Engineer and Bot Developer with over 2 years of experience in the tech industry, specializing in Python development and<br>automation solutions. Proficient in designing and implementing efficient automation frameworks, developing advanced bots, and leveraging cutting-edge<br>technologies to optimize business processes. Adept at utilizing tools like Selenium, UiPath, and Airflow to streamline workflows, enhance productivity, and<br>ensure high-quality deliverables. Demonstrated ability to solve complex problems, collaborate with cross-functional teams, and continuously learn and adapt<br>to new technologies. Committed to driving innovation and efficiency through automation and intelligent solutions
+Proficient in designing and implementing efficient automation frameworks, developing advanced bots, and leveraging cutting-edge<br>technologies to optimize business processes. Adept at utilizing tools like Selenium, UiPath, and Airflow to streamline workflows, enhance productivity, and<br>ensure high-quality deliverables. Demonstrated ability to solve complex problems, collaborate with cross-functional teams, and continuously learn and adapt<br>to new technologies. Committed to driving innovation and efficiency through automation and intelligent solutions
 
 
 ## 🌐 Socials:
