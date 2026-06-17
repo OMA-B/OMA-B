@@ -1,6 +1,6 @@
 ![Dedicated and skilled Automation Engineer and Bot Developer.](https://github.com/OMA-B/OMA-B/blob/main/data/automation_banner.jpeg)
 # Hi there 👋, I'm Michael
-## A dedicated and skilled Automation Engineer and Bot Developer.
+## A dedicated and skilled Automation Engineer and Backend Developer.
 
 # 💫 About Me:
 #### Proficient in designing and implementing efficient automation frameworks, developing advanced bots, and leveraging cutting-edge<br>technologies to optimize business processes. Adept at utilizing tools like Selenium, UiPath, and Airflow to streamline workflows, enhance productivity, and ensure high-quality deliverables. Demonstrated ability to solve complex problems, collaborate with cross-functional teams, and continuously learn and adapt to new technologies. Committed to driving innovation and efficiency through automation and intelligent solutions.
